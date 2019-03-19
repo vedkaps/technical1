@@ -1,5 +1,3 @@
-# Tehcnical Test
-
 ## Installation instructions
 
 1. Clone the project using git `git clone github@...`
